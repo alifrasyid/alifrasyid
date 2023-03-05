@@ -1,0 +1,17 @@
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\bin\Debug\net6.0-windows\mod3_1302210098.exe
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\bin\Debug\net6.0-windows\mod3_1302210098.deps.json
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\bin\Debug\net6.0-windows\mod3_1302210098.runtimeconfig.json
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\bin\Debug\net6.0-windows\mod3_1302210098.dll
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\bin\Debug\net6.0-windows\mod3_1302210098.pdb
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.csproj.AssemblyReference.cache
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.Form1.resources
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.csproj.GenerateResource.cache
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.GeneratedMSBuildEditorConfig.editorconfig
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.AssemblyInfoInputs.cache
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.AssemblyInfo.cs
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.csproj.CoreCompileInputs.cache
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.dll
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\refint\mod3_1302210098.dll
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.pdb
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\mod3_1302210098.genruntimeconfig.cache
+C:\kuliah\semester 4\KPL\mod3_1302210098\mod3_1302210098\obj\Debug\net6.0-windows\ref\mod3_1302210098.dll
